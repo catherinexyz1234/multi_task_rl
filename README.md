@@ -1,1 +1,2 @@
-# multi_task_rl
+# mrl
+the project for cs6789
